@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e82a8a939d032fe6d8c5ee7a877cd9d8",
+    "revision": "93e131cf2e09ac730b8ed58869fac281",
     "url": "/twisen/index.html"
   },
   {
