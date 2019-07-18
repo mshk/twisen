@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d55263a7d83a09ef4d427141e696c878",
+    "revision": "debf9e12db3b8fea3c2333504041fee1",
     "url": "/twisen/index.html"
   },
   {
-    "revision": "315297ee9f9de264b3d6",
+    "revision": "9e67a04b9eba9acbe24a",
     "url": "/twisen/static/css/2.0e7d701e.chunk.css"
   },
   {
-    "revision": "315297ee9f9de264b3d6",
-    "url": "/twisen/static/js/2.ef1413de.chunk.js"
+    "revision": "9e67a04b9eba9acbe24a",
+    "url": "/twisen/static/js/2.ba185fc1.chunk.js"
   },
   {
-    "revision": "1eea81a2b6c949a6f803",
-    "url": "/twisen/static/js/main.21464286.chunk.js"
+    "revision": "989a9574bed83c1e4e24",
+    "url": "/twisen/static/js/main.5919a252.chunk.js"
   },
   {
     "revision": "e159d921e86fac6eb90d",
