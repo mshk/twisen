@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/twisen/precache-manifest.8506abb8190977b48ed16767c89a29a9.js"
+  "/twisen/precache-manifest.e37ba8d4b6f090715d5f4de290b3a657.js"
 );
 
 self.addEventListener('message', (event) => {
