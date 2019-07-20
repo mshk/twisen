@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/twisen/static/js/main.5bde477e.chunk.js",
-    "main.js.map": "/twisen/static/js/main.5bde477e.chunk.js.map",
+    "main.js": "/twisen/static/js/main.b34c5a15.chunk.js",
+    "main.js.map": "/twisen/static/js/main.b34c5a15.chunk.js.map",
     "runtime~main.js": "/twisen/static/js/runtime~main.ed84efa7.js",
     "runtime~main.js.map": "/twisen/static/js/runtime~main.ed84efa7.js.map",
     "static/css/2.0e7d701e.chunk.css": "/twisen/static/css/2.0e7d701e.chunk.css",
-    "static/js/2.99397f55.chunk.js": "/twisen/static/js/2.99397f55.chunk.js",
-    "static/js/2.99397f55.chunk.js.map": "/twisen/static/js/2.99397f55.chunk.js.map",
+    "static/js/2.afce359e.chunk.js": "/twisen/static/js/2.afce359e.chunk.js",
+    "static/js/2.afce359e.chunk.js.map": "/twisen/static/js/2.afce359e.chunk.js.map",
     "index.html": "/twisen/index.html",
-    "precache-manifest.a38f837a6faa1eb57500bc5f76548b2b.js": "/twisen/precache-manifest.a38f837a6faa1eb57500bc5f76548b2b.js",
+    "precache-manifest.a5b4215bac1e41b3bd30eaf5f25dc707.js": "/twisen/precache-manifest.a5b4215bac1e41b3bd30eaf5f25dc707.js",
     "service-worker.js": "/twisen/service-worker.js",
     "static/css/2.0e7d701e.chunk.css.map": "/twisen/static/css/2.0e7d701e.chunk.css.map",
     "static/media/slick-theme.css": "/twisen/static/media/slick.f97e3bbf.svg"
